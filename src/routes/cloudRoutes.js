@@ -6,8 +6,8 @@ const {
 } = require("../controllers/cloudController");
 const { protect } = require("../middleware/authMiddleware");
 
-// Save requires login, but get is public
-router.post("/save", protect, saveToCloud);
+// Save works WITHOUT login too (optional auth)
+router.post("/save", saveToCloud);
 router.get("/:code", getFromCloud);
 
 module.exports = router;
