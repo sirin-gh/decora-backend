@@ -8,9 +8,11 @@ The project consists of two separately developed components: a **React Native mo
 
 ## Application Demo
 
-**[Watch the Application Demo](
 
-)**
+
+
+
+
 The demonstration showcases the mobile interface, room customization features, furniture selection, and 3D editor.
 
 ## Project Overview
