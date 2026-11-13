@@ -8,8 +8,9 @@ The project consists of two separately developed components: a **React Native mo
 
 ## Application Demo
 
-**[Watch the Application Demo](PASTE_VIDEO_URL_HERE)**
+**[Watch the Application Demo](
 
+)**
 The demonstration showcases the mobile interface, room customization features, furniture selection, and 3D editor.
 
 ## Project Overview
@@ -120,6 +121,6 @@ React Native application, 3D room editor, mobile UI, furniture catalog, and fron
 
 ## Project Links
 
-- **Backend:** This repository
+- **Backend:** https://github.com/sirin-gh/decora-backend
 - **Frontend:** https://github.com/fatma218/Threejs_Room
 
