@@ -10,6 +10,10 @@ The project consists of two separately developed components: a **React Native mo
 
 
 
+https://github.com/user-attachments/assets/c164644f-a2cd-4aad-8e87-10077a6be462
+
+
+
 
 
 
